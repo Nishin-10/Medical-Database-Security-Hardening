@@ -1,0 +1,19 @@
+# SQL Server files
+*.mdf
+*.ldf
+*.bak
+*.trn
+*.sqlproj
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Visual Studio / Editor settings
+.vscode/
+.idea/
+*.swp
+*.user
+bin/
+obj/
